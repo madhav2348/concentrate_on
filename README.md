@@ -6,9 +6,12 @@ A flutter project for isolate your device from distaction and let you concentrat
 
 This project is a starting point for a Flutter application.
 
-- Clone the repository and follow the terminal command:
-`git clone https://github.com/madhav2348/concentrate_on`
-`cd concenrate_on`
+- Clone the repository and follow the terminal command: 
+
+```bash
+git clone https://github.com/madhav2348/concentrate_on
+cd concenrate_on
+```
 
 A few resources to get you started if this is your first Flutter project:
 
