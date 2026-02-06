@@ -1,4 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Wake Lock Permission for keeping screen awake during focus sessions -->
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    
     <application
         android:label="concentrate_on"
         android:name="${applicationName}"
