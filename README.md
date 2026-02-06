@@ -83,7 +83,7 @@ flutter build appbundle --release
 
 # iOS
 flutter build ios --release
-
+```
 ## 📦 Dependencies
 
 ### Core Packages
@@ -101,7 +101,7 @@ flutter build ios --release
 
 ## 🏗️ Project Structure
 
-```
+``` bash
 lib/
 ├── main.dart                 # App entry point
 ├── models/
