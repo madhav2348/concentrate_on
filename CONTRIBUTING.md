@@ -98,27 +98,8 @@ flutter test test/widget_test.dart
 
 ## 🎯 Priority Features
 
-We're especially interested in contributions for:
-
-1. **AI Task Management**
-   - Natural language task parsing
-   - Smart task suggestions
-   - Priority recommendations
-
-2. **Do Not Disturb Integration**
-   - Android DND API integration
-   - iOS Focus Mode integration
-   - Custom notification filtering
-
-3. **App Blocking**
-   - Usage access implementation
-   - App detection and blocking
-   - Whitelist/blacklist management
-
-4. **Enhanced Analytics**
-   - Data visualization
-   - Export functionality
-   - Productivity insights
+[Checkout FEATURES.md](https://github.com/madhav2348/concentrate_on/blob/main/FEATURES.md)
+[Checkout AI_AI_INTEGRATION_GUIDE.md](https://github.com/madhav2348/concentrate_on/blob/main/AI_INTEGRATION_GUIDE.md)
 
 ## 🔍 Code Review Process
 

@@ -14,13 +14,8 @@
 - ⏳ Improved animations
 
 ### v2.0 - AI Integration
-- ⏳ Natural language task creation
-- ⏳ AI task prioritization
-- ⏳ Smart time estimation
-- ⏳ Productivity insights
-- ⏳ Pattern recognition
-- ⏳ Personalized recommendations
-- ⏳ Smart scheduling
+[Checkout AI_AI_INTEGRATION_GUIDE.md](https://github.com/madhav2348/concentrate_on/blob/main/AI_INTEGRATION_GUIDE.md)
+
 
 ### v2.5 - System Integration
 - ⏳ Do Not Disturb integration
