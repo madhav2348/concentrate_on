@@ -8,16 +8,6 @@ A powerful Flutter-based focus mode application designed to help you stay concen
 
 ## ✨ Features
 
-### Current Implementation
-
-- **⏱️ Pomodoro Timer**: Customizable focus sessions with visual countdown
-- **🔒 Wake Lock**: Keeps your screen awake during focus sessions to prevent interruptions
-- **📊 Statistics Tracking**: Monitor your productivity with detailed session statistics
-- **⚙️ Customizable Settings**: Adjust focus duration, short breaks, and long breaks
-- **🎨 Material Design 3**: Modern, clean UI with light and dark theme support
-- **💾 Persistent Data**: Your stats and settings are saved locally
-- **📱 Cross-Platform**: Works on Android, iOS, Web, Windows, macOS, and Linux
-
 ### 🎯 Core Functionality
 
 1. **Focus Sessions**
@@ -66,8 +56,6 @@ flutter pub get
 flutter run
 
 # For specific platform
-flutter run -d chrome        # Web
-flutter run -d windows       # Windows
 flutter run -d android       # Android
 flutter run -d ios           # iOS
 ```
@@ -116,54 +104,8 @@ lib/
 
 ## 🔮 Future Integrations
 
-### Planned Features
+[Checkout AI_AI_INTEGRATION_GUIDE.md](https://github.com/madhav2348/concentrate_on/blob/main/AI_INTEGRATION_GUIDE.md)
 
-1. **🤖 AI-Powered Task Management**
-   - Natural language task creation via prompts
-   - AI-suggested task prioritization
-   - Smart break recommendations based on focus patterns
-   - Personalized productivity insights
-
-2. **🔕 Do Not Disturb Integration**
-   - Automatic DND mode activation during focus sessions
-   - System notification management
-   - Custom notification filtering
-
-3. **🚫 App Blocking**
-   - Block distracting apps during focus time
-   - Customizable app blocklist
-   - Usage tracking and analytics
-   - Gentle reminders when accessing blocked apps
-
-4. **🔔 Enhanced Notifications**
-   - Session start/end notifications
-   - Break reminders
-   - Daily productivity summaries
-   - Achievement notifications
-
-5. **📈 Advanced Analytics**
-   - Weekly/monthly productivity reports
-   - Focus time heatmaps
-   - Productivity trends and patterns
-   - Export data functionality
-
-7. **🎵 Ambient Sounds**
-   - Focus-enhancing background sounds
-   - White noise, nature sounds, lo-fi music
-   - Custom sound playlists
-
-### AI Task Creation Example
-
-```
-User: "Create tasks for my project presentation"
-
-AI Response:
-✓ Research topic and gather data (25 min)
-✓ Create presentation outline (15 min)
-✓ Design slides (45 min)
-✓ Practice presentation (20 min)
-✓ Review and refine (15 min)
-```
 
 ## 🛠️ Development
 
@@ -184,17 +126,6 @@ flutter analyze
 ```bash
 flutter format .
 ```
-
-## 📱 Platform-Specific Setup
-
-### Android
-- Minimum SDK: 21 (Android 5.0)
-- Target SDK: 34 (Android 14)
-- Permissions: WAKE_LOCK (automatically handled)
-
-### iOS
-- Minimum iOS version: 12.0
-- No additional permissions required for wake lock
 
 ## 🤝 Contributing
 
