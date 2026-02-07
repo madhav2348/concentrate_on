@@ -74,22 +74,6 @@
 
 ---
 
-## 📱 Platform-Specific Features
-
-### Android
-- Material Design
-- Wake lock permission
-- Notification channels
-
-
-### iOS
-- Cupertino widgets
-- Wake lock support
-- Focus Mode integration (planned)
-- Siri shortcuts (planned)
-
----
-
 ## 🌟 Unique Selling Points
 
 1. **Simple & Focused**: No bloat, just what you need
